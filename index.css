@@ -1,0 +1,13 @@
+body {
+    padding: 30px;
+    background-color: #11bee9;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 { 
+  font-size: 3rem;
+
+}
